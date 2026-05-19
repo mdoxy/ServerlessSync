@@ -39,13 +39,9 @@ Amazon S3 → Lifecycle Rule → S3 Glacier (after 30 days)
 
 # 🖼️ Architecture Diagram
 
-
-
-```md
 <p align="center">
   <img src="architecture/serverlesssync-architecture.png" width="900"/>
 </p>
-```
 
 ---
 
